@@ -1,5 +1,7 @@
-<header text-align="center">
+<div align="center">
+  <img src=""/>
   <h1>Pkpkawe</h1>
-  <h2>Pietro Kawê Silva Oliveira</h2>
-</header>
+  <p>Pietro Kawê Silva Oliveira</p>
+  <br>
+</div>
 
