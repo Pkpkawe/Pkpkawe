@@ -20,4 +20,13 @@
   <img width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
 </div>
 
-
+<div>
+  <h2>Curiosidades Sobre Mim</h2>
+  <ul>
+    <li>a</li>
+    <li>a</li>
+    <li>a</li>
+    <li>a</li>
+    <li>a</li>
+  </ul>
+</div>
