@@ -1,6 +1,5 @@
 <div align="center">
-  <img >
-  <img width="150px" src="https://github.com/Pkpkawe/Pkpkawe/blob/main/Img/Foto_Perfil_Principal.png"/>
+  <img src="https://github.com/Pkpkawe/Pkpkawe/blob/main/Img/Pkpkawe_Banner.png"/>
   <h1>Pkpkawe</h1>
   <h3>Pietro Kawê Silva Oliveira</h3>
   <div>
@@ -13,7 +12,7 @@
     <a href="https://github.com/Pkpkawe"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div>
   <br>
-  <p align="justify">Me chamo Pietro Kawê, havendo um apelido reconhecido por Pkpkawe, sou um estudante da área de informática, e adimiro demais a Tecnologia. Meu desejo é conseguir me aprofundar em todos os conteúdos de informática, e adquerir uma grnade quantidade de conhecimento.</p>
+  <p align="justify">My name is Pietro Kawê, with a nickname recognized as Pkpkawe, I am a computer science student, and I really admire Technology. My desire is to be able to delve deeper into all IT content, and acquire a large amount of knowledge.</p>
   <hr>
 </div>
 
@@ -23,7 +22,7 @@
 </div>
 
 <div>
-  <h2>Tecnologias</h2>
+  <h2>Technologies</h2>
   <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
