@@ -12,7 +12,8 @@
     <a href="https://github.com/Pkpkawe"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div>
   <br>
-  <p align="justify">My name is Pietro Kawê, with a nickname recognized as Pkpkawe, I am a computer science student, and I really admire Technology. My desire is to be able to delve deeper into all IT content, and acquire a large amount of knowledge.</p>
+  <p align="justify">My name is Pietro Kawê, nicknamed Pkpkawe. I am a computer science student and I really admire technology. My desire is to be able to delve into all IT content and acquire a great deal of knowledge. I am a curious person who is always looking for more information, trying to absorb different types of content to become someone with a lot of wisdom.</p>
+  <p align="justify"></p>
   <hr>
 </div>
 
@@ -23,11 +24,14 @@
 
 <div>
   <h2>Technologies</h2>
+  <p>Below are some of the languages ​​and technologies that I master and am in the process of learning:</p>
   <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
   <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
+  <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
 </div>
+
 
 
