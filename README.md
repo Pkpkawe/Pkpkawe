@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Pkpkawe/Pkpkawe/blob/main/Img/Pkpkawe_Banner.png"/>
+  <img src="https://github.com/Pkpkawe/Pkpkawe/blob/main/img/Banner_README.png"/>
   <h1>Pkpkawe</h1>
   <h3>Pietro Kawê Silva Oliveira</h3>
   <div>
