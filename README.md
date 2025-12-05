@@ -3,13 +3,13 @@
   <h1>Pkpkawe</h1>
   <h3>Pietro Kawê Silva Oliveira</h3>
   <div>
-    <a href="mailto:kawepietro50@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://discord.gg/ymx4nWJCXn"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-    <a href="https://www.youtube.com/@Pkpkawe"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-    <a href="https://www.twitch.tv/pkpkawe"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-    <a href="https://www.instagram.com/pkpkawe/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/pietro-kawê-silva-oliveira-70220b2b8"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href="https://github.com/Pkpkawe"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+    <a href="mailto:kawepietro50@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://discord.gg/ymx4nWJCXn" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+    <a href="https://www.youtube.com/@Pkpkawe" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+    <a href="https://www.twitch.tv/pkpkawe" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
+    <a href="https://www.instagram.com/pkpkawe/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/pietro-kawê-silva-oliveira-70220b2b8" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="https://github.com/Pkpkawe" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 </div>
   <br>
   <p align="justify">My name is Pietro Kawê, nicknamed Pkpkawe. I am a computer science student and I really admire technology. My desire is to be able to delve into all IT content and acquire a great deal of knowledge. I am a curious person who is always looking for more information, trying to absorb different types of content to become someone with a lot of wisdom.</p>
