@@ -17,11 +17,6 @@
   <hr>
 </div>
 
-<div align="center">
-  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=pkpkawe&show_icons=true&theme=dracula"/>
-  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pkpkawe&layout=donut"/>
-</div>
-
 <div>
   <h2>Technologies</h2>
   <p>Below are some of the languages ​​and technologies that I master and am in the process of learning:</p>
