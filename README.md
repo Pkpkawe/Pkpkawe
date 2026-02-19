@@ -10,6 +10,7 @@
     <a href="https://www.instagram.com/pkpkawe/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/pietro-kawê-silva-oliveira-70220b2b8" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="https://github.com/Pkpkawe" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+    <a href="https://gitlab.com/Pkpkawe" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"></a>
 </div>
   <br>
   <p align="justify">My name is Pietro Kawê, nicknamed Pkpkawe. I am a computer science student and I really admire technology. My desire is to be able to delve into all IT content and acquire a great deal of knowledge. I am a curious person who is always looking for more information, trying to absorb different types of content to become someone with a lot of wisdom.</p>
